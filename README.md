@@ -1,0 +1,1 @@
+Contains django projects from following tutorials online :)
